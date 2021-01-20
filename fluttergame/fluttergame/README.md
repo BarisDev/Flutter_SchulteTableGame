@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=oU6H2xYVyzQ&ab_channel=Bar%C4%B1%C5%9FYarar)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=oU6H2xYVyzQ&ab_channel=Bar%C4%B1%C5%9FYarar)
 
 ## Getting Started
 
