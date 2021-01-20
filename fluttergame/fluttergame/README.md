@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=oU6H2xYVyzQ&ab_channel=Bar%C4%B1%C5%9FYarar)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
